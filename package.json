@@ -6,5 +6,9 @@
   "repository": "github.com/bigzoo/franz-recipe-privateemail",
   "author": "Chris Nyaga <chris@bigzoo.me>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "config": {
+    "serviceURL": "https://privateemail.com/appsuite/",
+    "hasNotificationSound": true
+  }
 }
