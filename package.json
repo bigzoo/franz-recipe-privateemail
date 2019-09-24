@@ -1,6 +1,6 @@
 {
   "id": "privateemail",
-  "name": "privateemail",
+  "name": "Private Email",
   "version": "1.0.0",
   "description": "PrivateEmail.com Franz recipe",
   "main": "index.js",
